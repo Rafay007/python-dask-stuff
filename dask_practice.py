@@ -10,4 +10,3 @@ print(df.shape)
 print(df.columns)
 for i,j in df.iterrows():
     print(j)
-    break
